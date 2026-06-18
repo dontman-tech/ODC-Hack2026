@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "431621574250",
+    "project_id": "re-kollect-f5c4e",
+    "storage_bucket": "re-kollect-f5c4e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431621574250:android:b07811fe4a056552b38413",
+        "android_client_info": {
+          "package_name": "ai.arena.rekollect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa5M7iniZIL7uG0lUNieTdoLo2UlDZd88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
